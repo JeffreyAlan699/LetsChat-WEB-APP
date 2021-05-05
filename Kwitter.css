@@ -1,12 +1,16 @@
 #login_button
 {
 	width: 30%;border-radius: 15px;
+    background-color:lightseagreen;
 }
 #user_name{
     width: 75%;
+    border-color:mediumslateblue;
 }
 body{
-    background-color: yellowgreen;
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/39/530/391/abstraction-geometry-abstract-design-background-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container{
     background-size: cover;
@@ -18,4 +22,12 @@ body{
     border-radius: 15px;
     width:40%;
     height: 50%;
+    border-color: mediumblue;
+}
+h2{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+     font-family:monospace;
 }
